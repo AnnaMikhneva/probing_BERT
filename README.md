@@ -1,4 +1,6 @@
 # probing_BERT
+# Синтаксический пробинг границ клауз на внутренних слоях BERT
+# Syntactic probing of clause boundaries on internal BERT layers
 This project explores how BERT encodes syntactic clause boundaries across its internal layers using Russian dependency-parsed data from the SynTagRus corpus. It implements cosine similarity analysis, linear probing with multiclass/binary classifiers, and UMAP visualization to identify layer-specific syntactic patterns. 
 
 ## Содержание репозитория 
